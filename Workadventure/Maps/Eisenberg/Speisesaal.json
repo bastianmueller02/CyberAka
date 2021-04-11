@@ -22,7 +22,20 @@
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
  "tileheight":32,
- "tilesets":[],
+ "tilesets":[
+        {
+         "columns":16,
+         "firstgid":1,
+         "image":"..\/..\/Tilesets\/world-tiles\/structures\/dk_garden.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"dk_garden",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }],
  "tilewidth":32,
  "type":"map",
  "version":1.5,
