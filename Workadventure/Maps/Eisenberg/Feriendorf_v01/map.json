@@ -556,7 +556,7 @@
          "startx":0,
          "starty":-224,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -584,7 +584,7 @@
          "startx":16,
          "starty":-32,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -596,7 +596,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -616,7 +616,7 @@
          "startx":192,
          "starty":-128,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -636,7 +636,7 @@
          "startx":0,
          "starty":-224,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
