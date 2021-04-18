@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="370" height="370" tilewidth="32" tileheight="32" infinite="0" backgroundcolor="#55ff7f" nextlayerid="11" nextobjectid="1">
+ <editorsettings>
+  <export target="../Feriendorf.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="dk_garden" tilewidth="32" tileheight="32" tilecount="256" columns="16">
   <image source="../tiles/dk_garden.png" width="512" height="512"/>
  </tileset>

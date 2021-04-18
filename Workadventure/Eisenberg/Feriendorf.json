@@ -1,5 +1,13 @@
 { "backgroundcolor":"#55ff7f",
  "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"Feriendorf.json"
+        }
+    },
  "height":370,
  "infinite":false,
  "layers":[
